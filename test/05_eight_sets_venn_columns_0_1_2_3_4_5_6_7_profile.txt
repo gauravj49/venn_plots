@@ -1,0 +1,520 @@
+> Set1 = 1
+45
+> Set2 = 0
+
+> Set3 = 1
+41
+> Set4 = 2
+43
+6
+> Set5 = 2
+29
+32
+> Set6 = 1
+47
+> Set7 = 0
+
+> Set8 = 2
+10
+2
+> Set1|Set2 = 0
+
+> Set1|Set3 = 0
+
+> Set1|Set4 = 0
+
+> Set1|Set5 = 0
+
+> Set1|Set6 = 1
+7
+> Set1|Set7 = 0
+
+> Set1|Set8 = 3
+18
+21
+8
+> Set2|Set3 = 0
+
+> Set2|Set4 = 0
+
+> Set2|Set5 = 1
+9
+> Set2|Set6 = 0
+
+> Set2|Set7 = 1
+39
+> Set2|Set8 = 0
+
+> Set3|Set4 = 0
+
+> Set3|Set5 = 0
+
+> Set3|Set6 = 0
+
+> Set3|Set7 = 0
+
+> Set3|Set8 = 0
+
+> Set4|Set5 = 0
+
+> Set4|Set6 = 0
+
+> Set4|Set7 = 0
+
+> Set4|Set8 = 0
+
+> Set5|Set6 = 1
+36
+> Set5|Set7 = 0
+
+> Set5|Set8 = 0
+
+> Set6|Set7 = 1
+46
+> Set6|Set8 = 0
+
+> Set7|Set8 = 0
+
+> Set1|Set2|Set3 = 0
+
+> Set1|Set2|Set4 = 0
+
+> Set1|Set2|Set5 = 0
+
+> Set1|Set2|Set6 = 0
+
+> Set1|Set2|Set7 = 0
+
+> Set1|Set2|Set8 = 2
+26
+28
+> Set1|Set3|Set4 = 0
+
+> Set1|Set3|Set5 = 0
+
+> Set1|Set3|Set6 = 0
+
+> Set1|Set3|Set7 = 0
+
+> Set1|Set3|Set8 = 2
+37
+49
+> Set1|Set4|Set5 = 0
+
+> Set1|Set4|Set6 = 0
+
+> Set1|Set4|Set7 = 0
+
+> Set1|Set4|Set8 = 0
+
+> Set1|Set5|Set6 = 1
+40
+> Set1|Set5|Set7 = 1
+38
+> Set1|Set5|Set8 = 0
+
+> Set1|Set6|Set7 = 0
+
+> Set1|Set6|Set8 = 0
+
+> Set1|Set7|Set8 = 0
+
+> Set2|Set3|Set4 = 0
+
+> Set2|Set3|Set5 = 0
+
+> Set2|Set3|Set6 = 0
+
+> Set2|Set3|Set7 = 1
+5
+> Set2|Set3|Set8 = 0
+
+> Set2|Set4|Set5 = 0
+
+> Set2|Set4|Set6 = 2
+13
+3
+> Set2|Set4|Set7 = 0
+
+> Set2|Set4|Set8 = 0
+
+> Set2|Set5|Set6 = 0
+
+> Set2|Set5|Set7 = 0
+
+> Set2|Set5|Set8 = 0
+
+> Set2|Set6|Set7 = 0
+
+> Set2|Set6|Set8 = 0
+
+> Set2|Set7|Set8 = 0
+
+> Set3|Set4|Set5 = 0
+
+> Set3|Set4|Set6 = 0
+
+> Set3|Set4|Set7 = 1
+44
+> Set3|Set4|Set8 = 0
+
+> Set3|Set5|Set6 = 0
+
+> Set3|Set5|Set7 = 0
+
+> Set3|Set5|Set8 = 1
+0
+> Set3|Set6|Set7 = 1
+16
+> Set3|Set6|Set8 = 0
+
+> Set3|Set7|Set8 = 0
+
+> Set4|Set5|Set6 = 0
+
+> Set4|Set5|Set7 = 2
+17
+35
+> Set4|Set5|Set8 = 0
+
+> Set4|Set6|Set7 = 0
+
+> Set4|Set6|Set8 = 0
+
+> Set4|Set7|Set8 = 0
+
+> Set5|Set6|Set7 = 0
+
+> Set5|Set6|Set8 = 1
+48
+> Set5|Set7|Set8 = 0
+
+> Set6|Set7|Set8 = 1
+24
+> Set1|Set2|Set3|Set4 = 0
+
+> Set1|Set2|Set3|Set5 = 0
+
+> Set1|Set2|Set3|Set6 = 0
+
+> Set1|Set2|Set3|Set7 = 1
+15
+> Set1|Set2|Set3|Set8 = 0
+
+> Set1|Set2|Set4|Set5 = 0
+
+> Set1|Set2|Set4|Set6 = 0
+
+> Set1|Set2|Set4|Set7 = 0
+
+> Set1|Set2|Set4|Set8 = 0
+
+> Set1|Set2|Set5|Set6 = 0
+
+> Set1|Set2|Set5|Set7 = 1
+33
+> Set1|Set2|Set5|Set8 = 0
+
+> Set1|Set2|Set6|Set7 = 0
+
+> Set1|Set2|Set6|Set8 = 0
+
+> Set1|Set2|Set7|Set8 = 0
+
+> Set1|Set3|Set4|Set5 = 0
+
+> Set1|Set3|Set4|Set6 = 1
+34
+> Set1|Set3|Set4|Set7 = 0
+
+> Set1|Set3|Set4|Set8 = 2
+1
+20
+> Set1|Set3|Set5|Set6 = 0
+
+> Set1|Set3|Set5|Set7 = 0
+
+> Set1|Set3|Set5|Set8 = 0
+
+> Set1|Set3|Set6|Set7 = 0
+
+> Set1|Set3|Set6|Set8 = 0
+
+> Set1|Set3|Set7|Set8 = 0
+
+> Set1|Set4|Set5|Set6 = 0
+
+> Set1|Set4|Set5|Set7 = 0
+
+> Set1|Set4|Set5|Set8 = 0
+
+> Set1|Set4|Set6|Set7 = 0
+
+> Set1|Set4|Set6|Set8 = 0
+
+> Set1|Set4|Set7|Set8 = 0
+
+> Set1|Set5|Set6|Set7 = 0
+
+> Set1|Set5|Set6|Set8 = 0
+
+> Set1|Set5|Set7|Set8 = 0
+
+> Set1|Set6|Set7|Set8 = 1
+23
+> Set2|Set3|Set4|Set5 = 1
+27
+> Set2|Set3|Set4|Set6 = 0
+
+> Set2|Set3|Set4|Set7 = 0
+
+> Set2|Set3|Set4|Set8 = 0
+
+> Set2|Set3|Set5|Set6 = 0
+
+> Set2|Set3|Set5|Set7 = 0
+
+> Set2|Set3|Set5|Set8 = 0
+
+> Set2|Set3|Set6|Set7 = 1
+14
+> Set2|Set3|Set6|Set8 = 0
+
+> Set2|Set3|Set7|Set8 = 1
+31
+> Set2|Set4|Set5|Set6 = 0
+
+> Set2|Set4|Set5|Set7 = 0
+
+> Set2|Set4|Set5|Set8 = 0
+
+> Set2|Set4|Set6|Set7 = 0
+
+> Set2|Set4|Set6|Set8 = 0
+
+> Set2|Set4|Set7|Set8 = 0
+
+> Set2|Set5|Set6|Set7 = 0
+
+> Set2|Set5|Set6|Set8 = 0
+
+> Set2|Set5|Set7|Set8 = 0
+
+> Set2|Set6|Set7|Set8 = 0
+
+> Set3|Set4|Set5|Set6 = 1
+11
+> Set3|Set4|Set5|Set7 = 0
+
+> Set3|Set4|Set5|Set8 = 1
+25
+> Set3|Set4|Set6|Set7 = 0
+
+> Set3|Set4|Set6|Set8 = 0
+
+> Set3|Set4|Set7|Set8 = 0
+
+> Set3|Set5|Set6|Set7 = 0
+
+> Set3|Set5|Set6|Set8 = 1
+19
+> Set3|Set5|Set7|Set8 = 0
+
+> Set3|Set6|Set7|Set8 = 0
+
+> Set4|Set5|Set6|Set7 = 0
+
+> Set4|Set5|Set6|Set8 = 0
+
+> Set4|Set5|Set7|Set8 = 0
+
+> Set4|Set6|Set7|Set8 = 0
+
+> Set5|Set6|Set7|Set8 = 0
+
+> Set1|Set2|Set3|Set4|Set5 = 0
+
+> Set1|Set2|Set3|Set4|Set6 = 0
+
+> Set1|Set2|Set3|Set4|Set7 = 0
+
+> Set1|Set2|Set3|Set4|Set8 = 0
+
+> Set1|Set2|Set3|Set5|Set6 = 0
+
+> Set1|Set2|Set3|Set5|Set7 = 0
+
+> Set1|Set2|Set3|Set5|Set8 = 0
+
+> Set1|Set2|Set3|Set6|Set7 = 0
+
+> Set1|Set2|Set3|Set6|Set8 = 1
+42
+> Set1|Set2|Set3|Set7|Set8 = 0
+
+> Set1|Set2|Set4|Set5|Set6 = 0
+
+> Set1|Set2|Set4|Set5|Set7 = 0
+
+> Set1|Set2|Set4|Set5|Set8 = 0
+
+> Set1|Set2|Set4|Set6|Set7 = 0
+
+> Set1|Set2|Set4|Set6|Set8 = 0
+
+> Set1|Set2|Set4|Set7|Set8 = 0
+
+> Set1|Set2|Set5|Set6|Set7 = 0
+
+> Set1|Set2|Set5|Set6|Set8 = 0
+
+> Set1|Set2|Set5|Set7|Set8 = 0
+
+> Set1|Set2|Set6|Set7|Set8 = 0
+
+> Set1|Set3|Set4|Set5|Set6 = 0
+
+> Set1|Set3|Set4|Set5|Set7 = 0
+
+> Set1|Set3|Set4|Set5|Set8 = 0
+
+> Set1|Set3|Set4|Set6|Set7 = 0
+
+> Set1|Set3|Set4|Set6|Set8 = 0
+
+> Set1|Set3|Set4|Set7|Set8 = 0
+
+> Set1|Set3|Set5|Set6|Set7 = 0
+
+> Set1|Set3|Set5|Set6|Set8 = 0
+
+> Set1|Set3|Set5|Set7|Set8 = 0
+
+> Set1|Set3|Set6|Set7|Set8 = 0
+
+> Set1|Set4|Set5|Set6|Set7 = 0
+
+> Set1|Set4|Set5|Set6|Set8 = 1
+12
+> Set1|Set4|Set5|Set7|Set8 = 0
+
+> Set1|Set4|Set6|Set7|Set8 = 0
+
+> Set1|Set5|Set6|Set7|Set8 = 0
+
+> Set2|Set3|Set4|Set5|Set6 = 0
+
+> Set2|Set3|Set4|Set5|Set7 = 0
+
+> Set2|Set3|Set4|Set5|Set8 = 0
+
+> Set2|Set3|Set4|Set6|Set7 = 0
+
+> Set2|Set3|Set4|Set6|Set8 = 0
+
+> Set2|Set3|Set4|Set7|Set8 = 0
+
+> Set2|Set3|Set5|Set6|Set7 = 0
+
+> Set2|Set3|Set5|Set6|Set8 = 0
+
+> Set2|Set3|Set5|Set7|Set8 = 0
+
+> Set2|Set3|Set6|Set7|Set8 = 0
+
+> Set2|Set4|Set5|Set6|Set7 = 0
+
+> Set2|Set4|Set5|Set6|Set8 = 0
+
+> Set2|Set4|Set5|Set7|Set8 = 0
+
+> Set2|Set4|Set6|Set7|Set8 = 0
+
+> Set2|Set5|Set6|Set7|Set8 = 0
+
+> Set3|Set4|Set5|Set6|Set7 = 0
+
+> Set3|Set4|Set5|Set6|Set8 = 0
+
+> Set3|Set4|Set5|Set7|Set8 = 0
+
+> Set3|Set4|Set6|Set7|Set8 = 0
+
+> Set3|Set5|Set6|Set7|Set8 = 0
+
+> Set4|Set5|Set6|Set7|Set8 = 0
+
+> Set1|Set2|Set3|Set4|Set5|Set6 = 0
+
+> Set1|Set2|Set3|Set4|Set5|Set7 = 1
+4
+> Set1|Set2|Set3|Set4|Set5|Set8 = 0
+
+> Set1|Set2|Set3|Set4|Set6|Set7 = 0
+
+> Set1|Set2|Set3|Set4|Set6|Set8 = 0
+
+> Set1|Set2|Set3|Set4|Set7|Set8 = 0
+
+> Set1|Set2|Set3|Set5|Set6|Set7 = 0
+
+> Set1|Set2|Set3|Set5|Set6|Set8 = 0
+
+> Set1|Set2|Set3|Set5|Set7|Set8 = 0
+
+> Set1|Set2|Set3|Set6|Set7|Set8 = 0
+
+> Set1|Set2|Set4|Set5|Set6|Set7 = 0
+
+> Set1|Set2|Set4|Set5|Set6|Set8 = 0
+
+> Set1|Set2|Set4|Set5|Set7|Set8 = 0
+
+> Set1|Set2|Set4|Set6|Set7|Set8 = 0
+
+> Set1|Set2|Set5|Set6|Set7|Set8 = 0
+
+> Set1|Set3|Set4|Set5|Set6|Set7 = 0
+
+> Set1|Set3|Set4|Set5|Set6|Set8 = 0
+
+> Set1|Set3|Set4|Set5|Set7|Set8 = 0
+
+> Set1|Set3|Set4|Set6|Set7|Set8 = 0
+
+> Set1|Set3|Set5|Set6|Set7|Set8 = 0
+
+> Set1|Set4|Set5|Set6|Set7|Set8 = 0
+
+> Set2|Set3|Set4|Set5|Set6|Set7 = 1
+50
+> Set2|Set3|Set4|Set5|Set6|Set8 = 0
+
+> Set2|Set3|Set4|Set5|Set7|Set8 = 0
+
+> Set2|Set3|Set4|Set6|Set7|Set8 = 0
+
+> Set2|Set3|Set5|Set6|Set7|Set8 = 0
+
+> Set2|Set4|Set5|Set6|Set7|Set8 = 0
+
+> Set3|Set4|Set5|Set6|Set7|Set8 = 0
+
+> Set1|Set2|Set3|Set4|Set5|Set6|Set7 = 0
+
+> Set1|Set2|Set3|Set4|Set5|Set6|Set8 = 0
+
+> Set1|Set2|Set3|Set4|Set5|Set7|Set8 = 0
+
+> Set1|Set2|Set3|Set4|Set6|Set7|Set8 = 0
+
+> Set1|Set2|Set3|Set5|Set6|Set7|Set8 = 0
+
+> Set1|Set2|Set4|Set5|Set6|Set7|Set8 = 1
+22
+> Set1|Set3|Set4|Set5|Set6|Set7|Set8 = 0
+
+> Set2|Set3|Set4|Set5|Set6|Set7|Set8 = 0
+
+> Set1|Set2|Set3|Set4|Set5|Set6|Set7|Set8 = 0
+

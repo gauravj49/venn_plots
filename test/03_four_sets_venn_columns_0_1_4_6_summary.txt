@@ -1,0 +1,15 @@
+Set1 = 10
+Set2 = 2
+Set5 = 8
+Set7 = 4
+Set1|Set2 = 3
+Set1|Set5 = 2
+Set1|Set7 = 1
+Set2|Set5 = 2
+Set2|Set7 = 4
+Set5|Set7 = 2
+Set1|Set2|Set5 = 0
+Set1|Set2|Set7 = 1
+Set1|Set5|Set7 = 1
+Set2|Set5|Set7 = 1
+Set1|Set2|Set5|Set7 = 3

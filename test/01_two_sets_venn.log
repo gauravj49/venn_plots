@@ -1,0 +1,20 @@
+
+---------- Script ----------
+scripts/venn_plots.py
+
+------Input Arguments ------
+caseIns     = False
+column_nums = 0,1
+output_file = test/01_two_sets_venn.txt
+output_dir  = None
+input_file  = test/test_input.txt
+----------------------------- 
+
+- Overlap:
+	Set1  =  14
+	Set2  =  9
+	Set1|Set2  =  7
+
+- Your output tabular file is: test/01_two_sets_venn_columns_0_1_tabular.txt
+- Your output profile file is: test/01_two_sets_venn_columns_0_1_profile.txt
+- Your output summary file is: test/01_two_sets_venn_columns_0_1_summary.txt

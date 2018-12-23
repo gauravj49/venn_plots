@@ -1,0 +1,32 @@
+
+---------- Script ----------
+scripts/venn_plots.py
+
+------Input Arguments ------
+caseIns     = False
+column_nums = 0,1,4,6
+output_file = test/03_four_sets_venn.txt
+output_dir  = None
+input_file  = test/test_input.txt
+----------------------------- 
+
+- Overlap:
+	Set1  =  10
+	Set2  =  2
+	Set5  =  8
+	Set7  =  4
+	Set1|Set2  =  3
+	Set1|Set5  =  2
+	Set1|Set7  =  1
+	Set2|Set5  =  2
+	Set2|Set7  =  4
+	Set5|Set7  =  2
+	Set1|Set2|Set5  =  0
+	Set1|Set2|Set7  =  1
+	Set1|Set5|Set7  =  1
+	Set2|Set5|Set7  =  1
+	Set1|Set2|Set5|Set7  =  3
+
+- Your output tabular file is: test/03_four_sets_venn_columns_0_1_4_6_tabular.txt
+- Your output profile file is: test/03_four_sets_venn_columns_0_1_4_6_profile.txt
+- Your output summary file is: test/03_four_sets_venn_columns_0_1_4_6_summary.txt

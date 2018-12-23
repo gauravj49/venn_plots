@@ -1,0 +1,88 @@
+> Set2 = 0
+
+> Set5 = 2
+29
+32
+> Set6 = 3
+34
+47
+7
+> Set7 = 1
+44
+> Set8 = 9
+1
+10
+18
+2
+20
+21
+37
+49
+8
+> Set2|Set5 = 2
+27
+9
+> Set2|Set6 = 2
+13
+3
+> Set2|Set7 = 3
+15
+39
+5
+> Set2|Set8 = 2
+26
+28
+> Set5|Set6 = 3
+11
+36
+40
+> Set5|Set7 = 3
+17
+35
+38
+> Set5|Set8 = 2
+0
+25
+> Set6|Set7 = 2
+16
+46
+> Set6|Set8 = 0
+
+> Set7|Set8 = 0
+
+> Set2|Set5|Set6 = 0
+
+> Set2|Set5|Set7 = 2
+33
+4
+> Set2|Set5|Set8 = 0
+
+> Set2|Set6|Set7 = 1
+14
+> Set2|Set6|Set8 = 1
+42
+> Set2|Set7|Set8 = 1
+31
+> Set5|Set6|Set7 = 0
+
+> Set5|Set6|Set8 = 3
+12
+19
+48
+> Set5|Set7|Set8 = 0
+
+> Set6|Set7|Set8 = 2
+23
+24
+> Set2|Set5|Set6|Set7 = 1
+50
+> Set2|Set5|Set6|Set8 = 0
+
+> Set2|Set5|Set7|Set8 = 0
+
+> Set2|Set6|Set7|Set8 = 0
+
+> Set5|Set6|Set7|Set8 = 0
+
+> Set2|Set5|Set6|Set7|Set8 = 1
+22

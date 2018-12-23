@@ -1,0 +1,48 @@
+
+---------- Script ----------
+scripts/venn_plots.py
+
+------Input Arguments ------
+caseIns     = False
+column_nums = 1,4,5,6,7
+output_file = test/04_five_sets_venn.txt
+output_dir  = None
+input_file  = test/test_input.txt
+----------------------------- 
+
+- Overlap:
+	Set2  =  0
+	Set5  =  2
+	Set6  =  3
+	Set7  =  1
+	Set8  =  9
+	Set2|Set5  =  2
+	Set2|Set6  =  2
+	Set2|Set7  =  3
+	Set2|Set8  =  2
+	Set5|Set6  =  3
+	Set5|Set7  =  3
+	Set5|Set8  =  2
+	Set6|Set7  =  2
+	Set6|Set8  =  0
+	Set7|Set8  =  0
+	Set2|Set5|Set6  =  0
+	Set2|Set5|Set7  =  2
+	Set2|Set5|Set8  =  0
+	Set2|Set6|Set7  =  1
+	Set2|Set6|Set8  =  1
+	Set2|Set7|Set8  =  1
+	Set5|Set6|Set7  =  0
+	Set5|Set6|Set8  =  3
+	Set5|Set7|Set8  =  0
+	Set6|Set7|Set8  =  2
+	Set2|Set5|Set6|Set7  =  1
+	Set2|Set5|Set6|Set8  =  0
+	Set2|Set5|Set7|Set8  =  0
+	Set2|Set6|Set7|Set8  =  0
+	Set5|Set6|Set7|Set8  =  0
+	Set2|Set5|Set6|Set7|Set8  =  1
+
+- Your output tabular file is: test/04_five_sets_venn_columns_1_4_5_6_7_tabular.txt
+- Your output profile file is: test/04_five_sets_venn_columns_1_4_5_6_7_profile.txt
+- Your output summary file is: test/04_five_sets_venn_columns_1_4_5_6_7_summary.txt
