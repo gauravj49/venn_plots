@@ -22,8 +22,7 @@ A script for plotting:
 - CONTACT: Gaurav Jain(gauravj49@gmail.com)
 ***********************************************
 
-usage: venn_plots.py [-h] -if --input_file [-of --output_file]
-                     [-od --output_dir] [-cl --cols] [-ci]
+usage: venn_plots.py [-h] -if --input_file [-of --output_file] [-od --output_dir] [-cl --cols] [-ci]
 
 arguments:
 -h, --help               show this help message and exit
