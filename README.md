@@ -72,7 +72,7 @@ arguments:
 ### Output files:
 
 1. Plots (png and pdf) for 2 to 5 sets  
- [plots.pdf](https://github.com/gauravj49/venn_plots/files/2706425/plots.pdf)
+ ![plots.pdf](https://github.com/gauravj49/venn_plots/files/2706425/plots.pdf)
 
 1. Summary file:
    ```
