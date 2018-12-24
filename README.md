@@ -72,8 +72,8 @@ arguments:
 ### Output files:
 
 1. Plots (png and pdf) for 2 to 5 sets  
- ![plots.pdf](https://github.com/gauravj49/venn_plots/files/2706425/plots.pdf)
-
+ ![plots-01](https://user-images.githubusercontent.com/10153240/50388588-5f8b8000-071b-11e9-9a3f-fdcd9cafacef.jpg)
+ 
 1. Summary file:
    ```
    - Set1 = 14
