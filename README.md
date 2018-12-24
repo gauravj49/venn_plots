@@ -73,7 +73,7 @@ arguments:
 
 1. Plots (png and pdf) for 2 to 5 sets  
  ![plots-01](https://user-images.githubusercontent.com/10153240/50388588-5f8b8000-071b-11e9-9a3f-fdcd9cafacef.jpg)
- 
+
 1. Summary file:
    ```
    - Set1 = 14
@@ -83,40 +83,40 @@ arguments:
 
 1. Profile file:
 ```
- > Set1 = 14
-   1
-   12
-   18
-   20
-   21
-   23
-   34
-   37
-   38
-   40
-   45
-   49
-   7
-   8
- > Set2 = 9
-   13
-   14
-   27
-   3
-   31
-   39
-   5
-   50
-   9
- > Set1|Set2 = 7
-   15
-   22
-   26
-   28
-   33
-   4
-   42
-   ```
+    > Set1 = 14
+    1
+    12
+    18
+    20
+    21
+    23
+    34
+    37
+    38
+    40
+    45
+    49
+    7
+    8
+    > Set2 = 9
+    13
+    14
+    27
+    3
+    31
+    39
+    5
+    50
+    9
+    > Set1|Set2 = 7
+    15
+    22
+    26
+    28
+    33
+    4
+    42
+    ```
 
 1. Tabular file (1=PRESENT, 0 = ABSENT):
 
