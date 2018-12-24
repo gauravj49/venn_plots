@@ -6,7 +6,7 @@ scripts.*.pyc
 00_git_setup_usage.sh
 test/plots.ai
 test/plots.pdf
-test/plots.png
+test/plots.jpg
 *.*~
 */*.*~
 
