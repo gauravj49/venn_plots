@@ -42,6 +42,7 @@ arguments:
 - python scripts/venn_plots.py -if=test/test_input.txt -of=test/05_eight_sets_venn.txt
 -------------------------------------------------
 ```
+{: .language-python}
 
 ### Input file (tab-delimited text file with headers):
 
